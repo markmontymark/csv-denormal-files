@@ -1,0 +1,32 @@
+{
+  "name": "csv-denormal-files",
+  "version": "0.0.0",
+  "description": "Combine csv files by joining a similar column amongst files",
+  "main": "index.js",
+  "dependencies": {
+    "csv2": "~0.1.1",
+    "through": "~2.3.4",
+    "yargs": "^1.3.1",
+    "underscore": "^1.6.0",
+    "through2": "^0.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/marmkontymark/csv-denormal-files"
+  },
+  "keywords": [
+    "cvs",
+    "denormal",
+    "files"
+  ],
+  "author": "Mark Koopman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marmkontymark/csv-denormal-files/issues"
+  },
+  "homepage": "https://github.com/marmkontymark/csv-denormal-files"
+}
